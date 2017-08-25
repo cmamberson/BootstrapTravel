@@ -1,0 +1,25 @@
+
+body{
+  background-color: #000000;
+}
+
+.jumbotron{
+  background-image: url('../images/travel_hero.jpg');
+  background-size: cover;
+  height: 500px;
+  background-attachment: fixed;
+
+}
+
+.row{
+  background: #FFFFFF;
+}
+
+.col-md-3{
+  border-right: solid 20px #000000;
+
+}
+
+.tableStuff{
+  background-color: #FFFFFF;
+}
